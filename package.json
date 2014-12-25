@@ -1,0 +1,17 @@
+{
+  "name": "cheesy",
+  "version": "1.0.0",
+  "description": "Browserify and open up your JS in its own browser window using thrust",
+  "bin": "cmd.js",
+  "dependencies": {
+    "thrust-window": "git://github.com/seanewest/thrust-window",
+    "wzrd": "^1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/seanewest/cheesy.git"
+  },
+  "author": "Sean West",
+  "license": "ISC",
+  "homepage": "https://github.com/seanewest/cheesy"
+}
