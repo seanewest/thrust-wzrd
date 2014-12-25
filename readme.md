@@ -8,7 +8,7 @@ cheesy main.js 800 600
 ## Install
 
 ```
-npm install -g seanewest/cheesy
+npm install -g cheesy
 ```
 
 ## Usage
