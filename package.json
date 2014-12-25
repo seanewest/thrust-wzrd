@@ -1,6 +1,6 @@
 {
   "name": "cheesy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Browserify and open up your JS in its own browser window using thrust",
   "bin": "cmd.js",
   "dependencies": {
