@@ -9,7 +9,7 @@ thrust-wzrd main.js 800 600
 
 ```
 npm install -g browserify
-npm install -g thrust-wzrd
+npm install -g seanewest/thrust-wzrd
 ```
 
 ## Usage
