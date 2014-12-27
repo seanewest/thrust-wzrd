@@ -1,19 +1,19 @@
-# Cheesy
-*Browserify and open up your JS in its own browser window using using [Breach](https://github.com/breach/breach_core)'s [Thrust](https://github.com/breach/thrust).*
+# Thrust-Wzrd
+*Browserify and open up your JS in its own browser window using using [Breach](https://github.com/breach/breach_core)'s [Thrust](https://github.com/breach/thrust) and [wzrd](https://github.com/maxogden/wzrd).*
 
 ```
-cheesy main.js 800 600
+thrust-wzrd main.js 800 600
 ```
 
 ## Install
 
 ```
 npm install -g browserify
-npm install -g cheesy
+npm install -g thrust-wzrd
 ```
 
 ## Usage
 
 ```
-cheesy entry.js [width] [height]
+thrust-wzrd entry.js [width] [height]
 ```

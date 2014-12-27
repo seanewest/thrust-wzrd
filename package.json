@@ -1,7 +1,7 @@
 {
-  "name": "cheesy",
-  "version": "1.0.1",
-  "description": "Browserify and open up your JS in its own browser window using thrust",
+  "name": "thrust-wzrd",
+  "version": "1.0.0",
+  "description": "Browserify and open up your JS in its own browser window using thrust and wzrd",
   "bin": "cmd.js",
   "dependencies": {
     "node-thrust": "^0.7.6-rc.1",
@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/seanewest/cheesy.git"
+    "url": "http://github.com/seanewest/thrust-wzrd.git"
   },
   "author": "Sean West",
   "license": "ISC",
-  "homepage": "https://github.com/seanewest/cheesy"
+  "homepage": "https://github.com/seanewest/thrust-wzrd"
 }
